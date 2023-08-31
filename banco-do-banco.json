@@ -1,0 +1,23 @@
+{
+    "0": {
+        "nome": "Lucas berr",
+        "saldo": "1000.0",
+        "limite": "0",
+        "cpf": "04454904030",
+        "email_correntista": "lucastberr@gmail.com"
+    },
+    "1": {
+        "nome": "Lucas berr",
+        "saldo": "1000.0",
+        "limite": "0",
+        "cpf": "04454904030",
+        "email_correntista": "lucastberr@gmail.com"
+    },
+    "2": {
+        "nome": "Leonardo rimolo",
+        "saldo": "0",
+        "limite": 1000.0,
+        "cpf": "024385387534",
+        "email_correntista": "leo@rimolo.com"
+    }
+}
